@@ -1,4 +1,4 @@
-package com.example.websocket240130;
+package com.example.websocket;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
